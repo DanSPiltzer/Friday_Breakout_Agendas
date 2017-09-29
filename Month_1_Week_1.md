@@ -1,5 +1,5 @@
 # Friday Breakout Session
-## Date: September 28, 2017
+## Date: September 29, 2017
 
 ## Agenda:
 
