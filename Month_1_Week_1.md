@@ -7,7 +7,7 @@
 - Name
 - Current Role
 - What you want to get out of the accelerator
-- Two truths and a lie
+- What was your last vacation and what do you want your next one to be?
 
 ## 2. Expectations
 - What to prepare
