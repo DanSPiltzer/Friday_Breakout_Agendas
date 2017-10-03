@@ -14,4 +14,5 @@
 
 ## 4. Group Work (30 mins)
 - Let's split into two groups and work on the exercise for Month 1 Week 2 in [this repository](https://github.com/DanSPiltzer/Friday_Breakout_Exercises)
+  - This exercise will get you more familiar with bringing in a csv, using dplyr and tidyr to clean the data, and using ggplot to visualize the data.  It should also give you another rep at using git.
 - Last 10 minutes spent reviewing what each group got and how I solved it.
